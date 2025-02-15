@@ -1,10 +1,10 @@
-270.00
-23.32
-79126.63
-Despejado
-Sin precipitación (0 mm/h)
-Calma oceánica
-2.00
-38.19
-22.50
-8.75
+Dirección del viento: 45.00°
+Rapidez del viento: 2.00 km/h
+Temperatura ambiental: 22.63 °C
+Humedad Reraltiva ambiental: 48.06 %
+Presión atmosférica: 94932.77 Pa
+Temperatura del agua: 24.66 °C
+Nubosidad: Despejado
+pH del agua: 8.81
+Precipitación: Sin precipitación (0 mm/h)
+Clasificación de fenómeno: Calma oceánica
