@@ -1,7 +1,7 @@
 Dirección del viento: 270.00°
 Rapidez del viento: 2.00 km/h
-Temperatura ambiental: 22.69 °C
-Humedad Reraltiva ambiental: 48.20 %
+Temperatura ambiental: 22.73 °C
+Humedad Reraltiva ambiental: 48.05 %
 Presión atmosférica: 94932.77 Pa
 Temperatura del agua: 24.66 °C
 Nubosidad: Despejado
